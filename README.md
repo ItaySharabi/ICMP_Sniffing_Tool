@@ -10,4 +10,4 @@
 #### 4: In one terminal run command > 'sudo ./Sniffer' . This will start sniffing packets.
 #### 5: On the other terminal run comman > 'sudo ./icmp' . This will send out an ICMP packet to Google.com (8.8.8.8)
 
-### 6: The 2 packets are captured, as well as all other ICMP packets (Could be pings, etc...).
+### 6: The 2 packets are captured (Echo and Echo(Reply)), as well as all other ICMP packets (Could be pings, etc...).
